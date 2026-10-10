@@ -6,8 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint",
-    "postinstall": "exec tunneld ':3000' 'bash'"
+    "lint": "eslint"
   },
   "dependencies": {
     "next": "16.4.0",
